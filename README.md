@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-## A little about me
+## An Intro
  Web Developer in training, curently enrolled in General Assembly's Software Engineer Immersive remote program. Please check out my pinned repositories!  
 
 ---
