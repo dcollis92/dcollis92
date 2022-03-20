@@ -7,15 +7,8 @@
 
 ## Reach out
 <a href="https://www.linkedin.com/in/davidphilipcollis/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />  </a>
-<a href="https://github.com/dcollis92"><img src="https://img.shields.io/github/followers/dcollis92?color=black&label=GitHub&logo=GitHub&logoColor=white&style=for-the-badge" />  </a>
 <a href="mailto: davidphilipcollis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />  </a>
 
----
-
-## Operating Systems
-<a href="#"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&for-the-badge&logo=macos&logoColor=F0F0F0" />  </a>
-<a href="#"><img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />  </a>
- 
 ---
 
 ## Technologies & Tools
@@ -47,7 +40,13 @@
 
 ---
 
+## Operating Systems
+  ![Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&for-the-badge&logo=macos&logoColor=F0F0F0)
+  ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white)
+
+---
+
 ## GitHub Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=dcollis92&show_icons=true&count_private=true&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcollis92&layout=compact&count_private=true&theme=dark" />
+![David's Stats](https://github-readme-stats.vercel.app/api?username=dcollis92&show_icons=true&count_private=true&theme=dark)
+![David's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dcollis92&layout=compact&count_private=true&theme=dark)
 
