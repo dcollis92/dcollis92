@@ -3,23 +3,19 @@
 ## ⚡ GitHub Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=dcollis92&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcollis92&layout=compact&count_private=true&theme=gruvbox" />
-  <hr>
-  <h2>A little about me:</h2>
-  <p>Web Developer in training, curently enrolled in General Assembly's Software Engineer Immersive remote program. Please check out my pinned repositories!  </p>
-  <hr>
-  <div>
+
+## A little about me:
+ Web Developer in training, curently enrolled in General Assembly's Software Engineer Immersive remote program. Please check out my pinned repositories!  
+
 ## Reach out
-    <a href="https://www.linkedin.com/in/davidphilipcollis/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
-    <a href="https://github.com/dcollis92"><img src="https://img.shields.io/github/followers/manliestben?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />  </a>
-    <a href="mailto: davidphilipcollis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />  </a>
-  </div>
-  <hr>
-  <div>
-    <h3>Operating Systems:</h3>
-      <a href="#"><img src="https://img.shields.io/badge/mac%20os-000000?style=flat-square&for-the-badge&logo=macos&logoColor=F0F0F0" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" />  </a>
-  </div>
-  <hr>
+<a href="https://www.linkedin.com/in/davidphilipcollis/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
+<a href="https://github.com/dcollis92"><img src="https://img.shields.io/github/followers/manliestben?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />  </a>
+<a href="mailto: davidphilipcollis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />  </a>
+
+## Operating Systems:
+<a href="#"><img src="https://img.shields.io/badge/mac%20os-000000?style=flat-square&for-the-badge&logo=macos&logoColor=F0F0F0" />  </a>
+<a href="#"><img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" />  </a>
+ 
 
 ## 🚀💻 Technologies & Tools
 
