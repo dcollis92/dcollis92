@@ -1,16 +1,3 @@
-### Hey there 👋
-
-## An Intro
- Web Developer in training, curently enrolled in General Assembly's Software Engineer Immersive remote program. Please check out my pinned repositories!  
-
----
-
-## Reach out
-<a href="https://www.linkedin.com/in/davidphilipcollis/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />  </a>
-<a href="mailto: davidphilipcollis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />  </a>
-
----
-
 ## Technologies & Tools
 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,6 +30,12 @@
 ## Operating Systems
   ![Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&for-the-badge&logo=macos&logoColor=F0F0F0)
   ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white)
+
+---
+
+## Reach out
+<a href="https://www.linkedin.com/in/davidphilipcollis/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />  </a>
+<a href="mailto: davidphilipcollis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />  </a>
 
 ---
 
