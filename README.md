@@ -5,7 +5,7 @@
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcollis92&layout=compact&theme=react" /></a> 
   <hr>
   <h2>A little about me:</h2>
-  <h3>Web Developer in training, curently enrolled in General Assembly's Software Engineer Immersive remote program. Please check out my pinned repositories!  </h3>
+  <p>Web Developer in training, curently enrolled in General Assembly's Software Engineer Immersive remote program. Please check out my pinned repositories!  </p>
   <hr>
   <div>
     <h3>Reach out:</h3>
