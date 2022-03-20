@@ -1,12 +1,11 @@
-### Hi there 👋
+### Hey there 👋
 
 <div align="center">
-  
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dcollis92&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=react" />  </a>
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcollis92&layout=compact&theme=react" /></a> 
   <hr>
   <h2>A little about me:</h2>
-<!--   <h3>I’m a software engineering instructor based in Austin, Texas. I'm happiest when I'm helping aspiring software engineers learn to code.  I'm also a rabid raspberry pi fanatic and can talk your ear off for hours about anything IoT.  </h3> -->
+  <h3>Web Developer in training, curently enrolled in General Assembly's Software Engineer Immersive remote program. Please check out my pinned repositories!  </h3>
   <hr>
   <div>
     <h3>Reach out:</h3>
