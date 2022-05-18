@@ -50,6 +50,6 @@
 ---
 
 ## GitHub Stats
-  ![David's Stats](https://github-readme-stats-dcollis92.vercel.app/api?username=dcollis92&show_icons=true&count_private=true&theme=dark)
-  ![David's Languages](https://github-readme-stats-dcollis92.vercel.app/api/top-langs/?username=dcollis92&layout=compact&count_private=true&theme=dark)
+  ![David's Stats](https://github-readme-stats.vercel.app/api?username=dcollis92&show_icons=true&count_private=true&theme=dark)
+  ![David's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dcollis92&layout=compact&count_private=true&theme=dark)
 
