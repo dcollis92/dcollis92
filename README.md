@@ -47,6 +47,10 @@
 <a href="mailto: davidphilipcollis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=Gmail&logoColor=black" />  </a>
 <a href="https://davidphilipcollis.com/"><img src="https://img.shields.io/badge/-Portfolio-white?style=for-the-badge&logo=Coderwall&logoColor=black" />  </a>
 
+<a href="https://leetcode.com/dcollis92/"><img src="https://img.shields.io/badge/-Leetcode-white?style=for-the-badge&logo=Leetcode&logoColor=black" />  </a>
+<a href="https://www.codewars.com/users/dcollis92"><img src="https://img.shields.io/badge/-Codewars-white?style=for-the-badge&logo=Codewars&logoColor=black" />  </a>
+
+
 ---
 
 ## GitHub Stats
