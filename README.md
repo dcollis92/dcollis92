@@ -5,24 +5,24 @@
   ![CSS3](https://img.shields.io/badge/-CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6)
   ![Sass](https://img.shields.io/badge/-Sass-white?style=for-the-badge&logo=sass)
   
+  ![React](https://img.shields.io/badge/-React-white?style=for-the-badge&logo=React&logoColor=blue) 
+  ![NodeJS](https://img.shields.io/badge/-Node.JS-white?style=for-the-badge&logo=Node.js)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&logo=typescript&logoColor=blue)
   ![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python)
-  ![React](https://img.shields.io/badge/-React-white?style=for-the-badge&logo=React&logoColor=blue)
-  ![NodeJS](https://img.shields.io/badge/-Node.JS-white?style=for-the-badge&logo=Node.js)
   
+  ![Material UI](https://img.shields.io/badge/-Material_UI-white?style=for-the-badge&logo=mui)
   ![jQuery](https://img.shields.io/badge/-jQuery-white?style=for-the-badge&logo=jQuery&logoColor=black)
   ![JWT](https://img.shields.io/badge/JWT-white?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=black)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=for-the-badge&logo=bootstrap)
   ![ReactRouter](https://img.shields.io/badge/-React_Router-white?style=for-the-badge&logo=react-router)  
-
+  
   ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=mongodb)
   ![ExpressJS](https://img.shields.io/badge/-Express-white?style=for-the-badge&logo=Express&logoColor=black)
   ![Flask](https://img.shields.io/badge/-Flask-white?style=for-the-badge&logo=Flask&logoColor=black)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=for-the-badge&logo=postgresql)
   
   ![Git](https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-white?style=for-the-badge&logo=github&logoColor=black)
   ![Markdown](https://img.shields.io/badge/-Markdown-white?style=for-the-badge&logo=Markdown&logoColor=black)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=for-the-badge&logo=bootstrap)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-white?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
 
   ![Postman](https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=postman)
@@ -38,7 +38,6 @@
 
 ## Operating Systems
   ![Mac](https://img.shields.io/badge/mac%20os-white?style=for-the-badge&logo=macos&logoColor=black)
-  ![Windows](https://img.shields.io/badge/-Windows-white?style=for-the-badge&logo=Windows&logoColor=black)
 
 ---
 
