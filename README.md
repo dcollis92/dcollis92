@@ -38,6 +38,7 @@
 
 ## Operating Systems
   ![Mac](https://img.shields.io/badge/mac%20os-white?style=for-the-badge&logo=macos&logoColor=black)
+  ![Windows](https://img.shields.io/badge/windows-white?style=for-the-badge&logo=windows&logoColor=black)
 
 ---
 
