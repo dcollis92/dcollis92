@@ -29,8 +29,9 @@
 
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-white?style=for-the-badge&logo=kubernetes)
   ![Docker](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker)
+  ![Helm](https://img.shields.io/badge/Helm-white?style=for-the-badge&logo=helm&logoColor=black)
   ![Postman](https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=postman)
-  ![Heroku](https://img.shields.io/badge/-Heroku-white?style=for-the-badge&logo=heroku&logoColor=black)
+  <!--![Heroku](https://img.shields.io/badge/-Heroku-white?style=for-the-badge&logo=heroku&logoColor=black)-->
   <!--![Netlify](https://img.shields.io/badge/netlify-white?style=for-the-badge&logo=netlify&logoColor=#00C7B7)-->
   <!--!![Trello](https://img.shields.io/badge/-Trello-white?style=for-the-badge&logo=Trello&logoColor=black)-->
 
