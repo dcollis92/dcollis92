@@ -11,10 +11,10 @@
   ![NodeJS](https://img.shields.io/badge/-Node.JS-white?style=for-the-badge&logo=Node.js)
   ![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python)
   
-  ![Material UI](https://img.shields.io/badge/-Material_UI-white?style=for-the-badge&logo=mui)
+  <!--![Material UI](https://img.shields.io/badge/-Material_UI-white?style=for-the-badge&logo=mui)
   ![jQuery](https://img.shields.io/badge/-jQuery-white?style=for-the-badge&logo=jQuery&logoColor=black)
   ![JWT](https://img.shields.io/badge/JWT-white?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=black)
-  ![ReactRouter](https://img.shields.io/badge/-React_Router-white?style=for-the-badge&logo=react-router)  
+  ![ReactRouter](https://img.shields.io/badge/-React_Router-white?style=for-the-badge&logo=react-router)-->
   
   ![AWS](https://img.shields.io/badge/AWS-white?style=for-the-badge&logo=iCloud&logoColor=ff9900)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=mongodb)
