@@ -16,7 +16,7 @@
   ![JWT](https://img.shields.io/badge/JWT-white?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=black)
   ![ReactRouter](https://img.shields.io/badge/-React_Router-white?style=for-the-badge&logo=react-router)-->
   
-  ![AWS](https://img.shields.io/badge/AWS-white?style=for-the-badge&logo=iCloud&logoColor=ff9900)
+  ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FFFFFF.svg?style=for-the-badge&logo=aws&logoColor=black)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=mongodb)
   ![ExpressJS](https://img.shields.io/badge/-Express-white?style=for-the-badge&logo=Express&logoColor=black)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=for-the-badge&logo=postgresql)
